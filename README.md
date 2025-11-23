@@ -28,8 +28,7 @@ I was tired of Excel sheets that broke whenever I changed a variable, so I built
 3. **Analyze**: The dashboard updates instantly to show interest saved and tenure reduced.
 
 ## Live Demo
-
-Add your GitHub Pages link here.
+https://vig-raj.github.io/pay-home-loan-soon/
 
 ## The Vibe Coding Stack
 
