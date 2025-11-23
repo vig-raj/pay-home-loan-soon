@@ -30,14 +30,6 @@ I was tired of Excel sheets that broke whenever I changed a variable, so I built
 ## Live Demo
 https://vig-raj.github.io/pay-home-loan-soon/
 
-## The Vibe Coding Stack
-
-This project explores **Vibe Coding**, where the priority is logic and outcome rather than syntax.
-
-- **Logic and core code**: Generated using Google Gemini 3.
-- **Styling and UI polish**: Refined with Claude.
-- **Hosting**: GitHub Pages.
-
 I am not a professional developer. I am a product and idea focused person who used AI to solve a personal need.
 
 ## Disclaimer
